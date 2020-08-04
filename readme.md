@@ -1,6 +1,6 @@
 ## 写在前面
 + 前台预览地址：[http://pickeddeng.club](http://pickeddeng.club "红色小裤衩")
-+ 后台管理地址：[http://admin.pickeddeng.club](http://pickeddeng.club "红色小裤衩后台管理")
++ 后台管理地址：[http://admin.pickeddeng.club/admin.php](http://pickeddeng.club.admin.php "红色小裤衩后台管理")
 + 用户名：admin 密码：123456
 
 
