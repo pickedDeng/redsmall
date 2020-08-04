@@ -1,7 +1,7 @@
 ## 写在前面
 + 前台预览地址：[http://pickeddeng.club](http://pickeddeng.club "红色小裤衩")
 + 后台管理地址：[http://admin.pickeddeng.club/admin.php](http://pickeddeng.club.admin.php "红色小裤衩后台管理")
-+ 用户名：admin 密码：123456
++ 用户名：admin 密码：123456 (登陆后5秒内没有跳转主页，请手动刷新一下，服务器比较卡)
 
 
 #### 项目目录介绍
